@@ -18,7 +18,7 @@
 
 ​    redis下载网址：https://redis.io/download/
 
-###### 2、开启服务端
+###### 2、开启服务端(端口为8889)
 
 在路径 chat/server/main 路径下开启服务端，可以通过 go run main.go redis.go 运行
 
