@@ -1,8 +1,7 @@
 # chatroom
 go实现简易聊天室，本地电脑开服务端和客户端
 
-运行步骤如下
-
+运行步骤如下：
 ###### 1、下载redis，开启redis服务端
 
 ​    redis下载网址：https://redis.io/download/
